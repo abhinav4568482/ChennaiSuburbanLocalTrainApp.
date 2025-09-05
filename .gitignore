@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# SQLite & local data
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db

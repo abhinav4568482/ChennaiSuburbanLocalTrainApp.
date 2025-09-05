@@ -1,0 +1,12 @@
+# Chennai Suburban Local Train App Requirements
+# All required packages are built into Python standard library
+
+# Core dependencies (built-in Python modules):
+# - tkinter (GUI framework)
+# - sqlite3 (database)
+# - No external packages required
+
+# Optional: For development and testing
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
